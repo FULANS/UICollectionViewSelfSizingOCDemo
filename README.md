@@ -1,0 +1,2 @@
+# UICollectionViewSelfSizingOCDemo
+UICollectionViewCell自适应文字宽度
